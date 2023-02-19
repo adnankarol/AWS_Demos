@@ -14,7 +14,7 @@ AWS LAMBDA: “AWS Lambda is an event-driven, serverless computing system provid
     4. Pay per usage
     5. No need to maintain the servers
     6. AWS Lambda supports Python, Ruby, Java, Go, PowerShell, Node.js and C#
-4. Disadvantages of AWS Lamda:
+4. Disadvantages of AWS Lambda:
     1. Lambda function has a max time to run of 15 minutes
     2. Can be difficult to configure at times (we will learn this in this lab)
     3. Cold Start: As AWS Lambda is an on demand service, whenever the lambda function is invoked (called), it can take some time to download the code and set up the environment. This is referred to as cold start and it is not desirable.
@@ -25,8 +25,8 @@ AWS LAMBDA: “AWS Lambda is an event-driven, serverless computing system provid
     <img width="30%" src="../Images/lambda_logo.png">
 </p>
 
-# About the Lab
-This lab will be divided into two parts:
+# About the Project
+This project will be divided into two parts:
 1. The first part is to learn how to create an AWS Lambda Functon from the console.
 2. The second part is how to automate the update of the lambda function, when you push your code to any code repository (eg: Github, AWS Code Commit, etc.)
 
@@ -86,7 +86,7 @@ NOTE: For almost all step below, an image is attached where necessary, which wil
 
 1. Now as you have created and configured your Lambda function, you need to provide it with the code to run with, when it is invoked.
 
-2. For this, scroll down and select the tab labelled as `CODE.
+2. For this, scroll down and select the tab labelled as `CODE`.
 
 ![lambda code](../Images/lambda_code.png)
 

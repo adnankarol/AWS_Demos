@@ -1,11 +1,11 @@
 # AWS Access Keys
 In this project you will learn how to obtain you AWS Access keys and learn how to set up the access keys in the AWS CLI. You will also learn how to switch accounts in the AWS CLI, when you have multiple accounts for different purposes.
 
-# About the Lab
+# About the Project
 In this lab you will learn about AWS Access Keys and how to set them up.
 
-# AWS Access Keys Lab
-In this part of the lab we will start by teaching about the AWS Access keys and how to set up them up
+# AWS Access Keys Project
+In this part of the project we will start by teaching about the AWS Access keys and how to set up them up
 
 NOTE: For almost all step below, an image is attached where necessary, which will you help you select the right service/option.
 
