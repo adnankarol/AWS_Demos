@@ -32,8 +32,6 @@ NOTE: For almost all step below, an image is attached where necessary, which wil
 
         cdk --version
 
-![aws cdk](../Images/aws_cdk.png)
-
 3. My system has npm version 8.15.0, python version 3.8.8, and node version 16.17.0.
 
 4. Once you have installed cdk, we can start by creating the the cdk project folder by running the command
